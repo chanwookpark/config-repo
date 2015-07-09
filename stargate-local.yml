@@ -1,5 +1,6 @@
 test: test-value
 api:
-	product:
-		host: localhost
-		port: 9991
+  product:
+    host: localhost
+    port: 9991
+
